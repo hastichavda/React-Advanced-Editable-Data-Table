@@ -1,4 +1,4 @@
-# Advanced Editable Data Table
+# React-Advanced-Editable-Data-Table
 
 Production-oriented React implementation of an editable data table designed for large datasets (10,000+ rows), with row-level edit isolation, virtualized rendering, scalable sorting/filtering, pagination fallback, CSV export, and unsaved-changes protection.
 
